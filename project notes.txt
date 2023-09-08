@@ -1,0 +1,11 @@
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+<span class="material-symbols-outlined">
+shopping_cart
+</span>
+
+
+Card Layout (Design) Tutorial with HTML & CSS Grid - Web Design Tutorial
+dcode
+https://www.youtube.com/watch?v=rV67qQahXAc
